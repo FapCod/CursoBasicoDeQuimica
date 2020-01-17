@@ -1,8 +1,4 @@
-**Tabla de  Contenido**
 
-[TOCM]
-
-[TOC]
 
 ###CURSO DE QUIMICA BASICA
 ####Átomo
@@ -125,3 +121,8 @@ Es el grado de semejanza que tiene un elemento con un metal y este se relaciona 
 El carácter metálico en la tabla periódica crece hacia la izquierda y hacia abajo y el carácter no metálico crecerá hacia la derecha y hacia arriba. Imagen de referencia
 ![](https://github.com/FapCod/CursoBasicoDeQuimica/blob/master/Picture22.png)
 
+**Tabla de  Contenido**
+
+[TOCM]
+
+[TOC]
