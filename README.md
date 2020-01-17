@@ -1,3 +1,10 @@
+**Tabla de  Contenido**
+
+[TOCM]
+
+
+[TOC]
+
 
 
 ###CURSO DE QUIMICA BASICA
@@ -69,9 +76,8 @@ Es una forma de agrupar los diferentes elementos en función de sus propiedades 
 ![](https://github.com/FapCod/CursoBasicoDeQuimica/blob/master/Picture5.png)
 Los periodos van del 1 al 7 y los grupos de 1 al XVII, escritos siempre los últimos en números romanos.
 Nombre de los grupos y sus configuraciones:
-![](https://github.com/FapCod/CursoBasicoDeQuimica/blob/master/Picture6.png)
-![](https://github.com/FapCod/CursoBasicoDeQuimica/blob/master/Picture7.png)
-![](https://github.com/FapCod/CursoBasicoDeQuimica/blob/master/Picture8.png)
+![](https://github.com/FapCod/CursoBasicoDeQuimica/blob/master/Picture6.png)![](https://github.com/FapCod/CursoBasicoDeQuimica/blob/master/Picture7.png)![](https://github.com/FapCod/CursoBasicoDeQuimica/blob/master/Picture8.png)
+
 ![](https://github.com/FapCod/CursoBasicoDeQuimica/blob/master/Picture9.png)
 ####¿Qué son las propiedades periódicas?
 Son aquellas magnitudes que varían de forma continua a lo largo de los grupos y periodos de la tabla periódica por lo que resulta muy sencillo e intuitivo comparar una propiedad periódica de diferentes elementos con solo echar un ojo en la tabla.
@@ -121,8 +127,8 @@ Es el grado de semejanza que tiene un elemento con un metal y este se relaciona 
 El carácter metálico en la tabla periódica crece hacia la izquierda y hacia abajo y el carácter no metálico crecerá hacia la derecha y hacia arriba. Imagen de referencia
 ![](https://github.com/FapCod/CursoBasicoDeQuimica/blob/master/Picture22.png)
 
-**Tabla de  Contenido**
 
-[TOCM]
 
-[TOC]
+
+
+
